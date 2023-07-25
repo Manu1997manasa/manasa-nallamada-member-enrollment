@@ -1,0 +1,3 @@
+com\yourcompany\memberenrollmentapi\entity\Member.class
+com\yourcompany\memberenrollmentapi\controller\MemberController.class
+com\yourcompany\memberenrollmentapi\repository\MemberRepository.class
